@@ -1,10 +1,6 @@
 # 👋 I code things when I'm bored
 Hi, I'm Phos, a programmer and cybersecurity enthusiast. 
 ---
-![GitHub followers](https://img.shields.io/github/followers/ph0sph0re?label=Suiveurs&style=social)
-![GitHub stars](https://img.shields.io/github/stars/ph0sph0re?affiliations=OWNER&style=social)
-
----
 
 ## 📈 Stats
 
