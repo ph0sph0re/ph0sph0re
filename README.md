@@ -12,7 +12,7 @@
   <a href="https://github.com/ph0sph0re">
     <img alt="pho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fontoms&show_icons=true&theme=radical&count_private=tru" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/ph0sph0re">
+ <a href="https://github.com/ph0sph0re">
     <img alt=" ph0sph0re Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0sph0re&theme=radical&langs_count=8&layout=compact&count_private=true" height="192px" width="49.5%"/>
   </a>
   <br/>
