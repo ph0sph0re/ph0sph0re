@@ -1,4 +1,4 @@
-**Hi I'm Phos, I'm learning cybersecurity, especially web pentest and bug bounty, but also maldev, pwn and rev.**
+**Hi I'm Phos, I'm learning cybersecurity, especially maldev, pwn and rev.**
 [![My Skills](https://skillicons.dev/icons?i=java,rust,cpp,c,obsidian,linux,vscode,github,arch,kali,aws,py,graphql,mysql,bots)](https://skillicons.dev)
 ---
 ## My Stats
