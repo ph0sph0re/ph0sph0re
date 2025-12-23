@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ph0sph0re&theme=radical&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ph0sph0re&theme=radical&mode=weekly" alt="GitHub Streak" width="100%"/>
   </a>
 </p>
 <p align="center">
