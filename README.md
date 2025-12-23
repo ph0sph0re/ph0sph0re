@@ -13,10 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="Phos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ph0sph0re&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img alt="Phos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0sph0re&theme=radical&langs_count=8&layout=compact&count_private=true" width="48%"/>
-</p>
+![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
 
 ---
 
