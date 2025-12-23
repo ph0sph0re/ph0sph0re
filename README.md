@@ -1,5 +1,5 @@
 # Hi, I'm Phos! 👋
-**I'm a developer in training with a focus on systems programming and cloud infrastructure.**
+**I'm a developer in training with a focus on systems programming and conccurency.**
 
 [![My Skills](https://skillicons.dev/icons?i=java,rust,cpp,c,obsidian,linux,vscode,github,arch,kali,aws,py,graphql,mysql,bots)](https://skillicons.dev)
 
@@ -13,7 +13,10 @@
   </a>
 </p>
 
+
 ![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
+
+![Ph0sph0re GitHub stats](https://github-readme-stats.vercel.app/api?username=ph0sph0re&show_icons=true&theme=radical)
 
 ---
 
