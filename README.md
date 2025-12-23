@@ -2,7 +2,7 @@
 **I'm a developer in training with a focus on systems programming and conccurency.**
 
 
-
+![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
 
 ---
 
@@ -19,7 +19,7 @@
 </p>
 
 
-![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
+
 
 [![Image](https://i.goopics.net/j70a9l.png)](https://goopics.net/i/j70a9l)
 
