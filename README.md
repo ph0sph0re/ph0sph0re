@@ -1,20 +1,31 @@
-**Hi I'm Phos, I'm learning dev**
+# Hi, I'm Phos! 👋
+**I'm a developer in training with a focus on systems programming and cloud infrastructure.**
+
 [![My Skills](https://skillicons.dev/icons?i=java,rust,cpp,c,obsidian,linux,vscode,github,arch,kali,aws,py,graphql,mysql,bots)](https://skillicons.dev)
+
 ---
-## My Stats
+
+## 📊 My Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=ph0sph0re&theme=radical&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/ph0sph0re">
-        <img alt="pho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ph0sph0re&show_icons=true&theme=radical&count_private=tru" height="192px" width="49.5%"/>
-    <img alt=" ph0sph0re Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0sph0re&theme=radical&langs_count=8&layout=compact&count_private=true&cache_seconds=60" height="192px" width="49.5%"/>
-  </a>
-  </a>
-  <br/>
+  <img alt="Phos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ph0sph0re&show_icons=true&theme=radical&count_private=true" width="48%"/>
+  <img alt="Phos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph0sph0re&theme=radical&langs_count=8&layout=compact&count_private=true" width="48%"/>
 </p>
 
-![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
+---
+
+## 🛠️ Currently Working On
+- 🦀 Deep diving into **Rust** ownership and concurrency.
+- ☁️ Deploying microservices on **AWS**.
+- 🤖 Building advanced **Discord/Chat bots**.
+
+## 📬 Connect with me
+<!-- Add your social links here -->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
