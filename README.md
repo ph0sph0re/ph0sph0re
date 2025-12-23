@@ -16,7 +16,7 @@
 
 ![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
 
-![Ph0sph0re GitHub stats](https://github-readme-stats.vercel.app/api?username=ph0sph0re&show_icons=true&theme=radical)
+
 
 ---
 
