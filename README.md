@@ -17,7 +17,7 @@
 ![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
 
 
-[![Image](https://i.goopics.net/uav73r.png)](https://goopics.net/i/uav73r)
+[![Image](https://i.goopics.net/n9uv3f.png)](https://goopics.net/i/n9uv3f)
 ---
 
 ## 🛠️ Currently Working On
