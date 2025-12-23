@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Currently Working On
-- 🦀 Deep diving into **Rust** ownership and concurrency.
+- ©️ Deep diving into **C++** ownership and concurrency.
 - ☁️ Deploying microservices on **AWS**.
 - 🤖 Building advanced **Discord/Chat bots**.
 
