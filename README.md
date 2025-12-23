@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 My Stats
+## 📿 My Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -17,7 +17,7 @@
 ![phos Graph](https://github-readme-activity-graph.vercel.app/graph?username=ph0sph0re&title=phos%20GitHub%20Activity%20Graph&theme=github-radical)
 
 
-
+[![Image](https://i.goopics.net/uav73r.png)](https://goopics.net/i/uav73r)
 ---
 
 ## 🛠️ Currently Working On
